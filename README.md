@@ -1,18 +1,14 @@
-README.md
+## 概要
+[Civichat](https://civichat.jp)のオープンソースプロジェクトです。公共制度用ファイルフォーマットの標準化を目指しています。
 
-## 備考
-2022/03/20のmtg参加者は
-- tkgshn
-- Endered
-- shinbunbun
-- u7693
-- 0505Keitan
-- inoue2002
+## 各種リンク
+- [Github（/civichat/commons）](https://github.com/Civichat/Commons)
+- [Twitter（@0xCommons）](https://twitter.com/0xCommons)
+- [Slack招待リンク](https://join.slack.com/t/civichat-commons/shared_invite/zt-15pmzj9pw-d9yKWbHgjEdJKc8ns910uA)
+- [Scrapbox招待リンク](https://scrapbox.io/projects/Civichat-Commons/invitations/e9dc09a8c1bc326d522c0d1c375dfac1)
 
-## タスク
-[x]Commonsのリポジトリに招待する
-[]Civichatの既存のリポジトリに招待する@0505keitan
-[]会津大組のリポジトリに招待してもらう
+## 貢献したい方へ
+下記ドキュメントをご一読下さい
+- [Contributing](https://scrapbox.io/Civichat-Commons/Contributing)
+- [Roadmap](https://scrapbox.io/Civichat-Commons/Roadmap)
 
-## どう実装していくか
-まずは既存の会津大側が開発したソースコードをCommonsに移管し、条件ベースで「大学受験の資格があるかどうか」を判定するプロダクトを作る
